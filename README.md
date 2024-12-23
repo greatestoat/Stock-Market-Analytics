@@ -42,12 +42,11 @@ This project is a sample webpage that displays a list of companies on the left-h
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/yourusername/company-chart-viewer.git  
+   https://github.com/greatestoat/Stock-Market-Analytics.git
    cd company-chart-viewer  
 Install Dependencies:
 
-bash
-Copy code
+
 npm install  
 Run the Application:
 
